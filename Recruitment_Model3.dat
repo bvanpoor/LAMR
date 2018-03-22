@@ -1,0 +1,86 @@
+#nlakes
+8
+#nbins
+50
+#delt_l
+10
+#min_l
+10
+#ngroups
+50
+#ngears
+3
+#DayT
+0.0273973							
+#MaxAge
+12
+#alw
+0.00001
+#plw
+3.009
+#TySpawn	-May 15		
+0.454795
+#Pgonad
+0.15
+#Wma
+131
+#Tinact
+23.5
+#Ktemp
+1.76
+#rbase
+2
+#rs
+0.2
+#WinfFactor
+100000
+#WsPower
+0
+#Tmax							
+17.75978451	17.7	17.36861824	17.5	17.26476333	16.04410688	17.75978451	17.86603212
+#Tmin							
+2.547921487	4	2.860855249	3	3.744771099	4.694322823	2.547921487	3.157095874
+#Twinter							
+3.5	3.5	3.5	3.5	3.5	3.5	3.5	3.5
+#Tyoff							
+0.610770616	0.614595187	0.607044812	0.614595187	0.625694909	0.624334622	0.610770616	0.608955545
+#LengthHatch
+18
+#TyHatch
+0.5
+#tnyears
+8	3	8	3	8	8	8	8
+#gconind
+1	2	2	3	4	5	6
+1	2
+1	2	2	3	4	5	6
+1	2
+1	2	2	3	4	5	6
+1	2	2	3	4	5	6
+1	2	2	3	4	5	6
+1	2	2	2	3	4	5
+#datayears
+7	3	7	3	7	7	7	6
+#tstart	-start year for tagging data used to generate lengths - different from catch data
+1	1	1	1	1	1	1	2
+#irec
+1
+#nyears
+8	3	8	3	8	8	8	8
+#startyr
+#1	1	1	1	1	1	1	1	
+2	1	2	1	1	1	2	1
+#lr
+200
+#ObsAge
+7
+#intheta
+9	6	9	6	10	10	9	10	
+#A
+12.4	2.6	8.4	3.8	6.1	7.5	5.9	10.9
+#c
+0
+#ndays
+36
+#dend
+999
